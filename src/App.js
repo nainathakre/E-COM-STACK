@@ -12,7 +12,6 @@ export default function App() {
       <ImageSlider />
       <Banners />
       <Footer />
-      
     </div>
   );
 }
